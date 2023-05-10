@@ -1,0 +1,9 @@
+.row{
+    background-color: #a1b5cd;   
+}
+.footer{
+    color: #fefefe;
+    font-size: 14px;
+    display: flex;
+    box-shadow: 2px -2x 5px #999;
+}
